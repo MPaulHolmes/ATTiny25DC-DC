@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <avr/wdt.h>
-#include "attiny25.h"
 
 void InitIOPorts();
 void watchdog_disable();
